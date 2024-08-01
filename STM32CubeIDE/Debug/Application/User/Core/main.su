@@ -1,0 +1,4 @@
+C:/Users/caiom/Downloads/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/main.c:160:6:Error_Handler	0	static,ignoring_inline_asm
+C:/Users/caiom/Downloads/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/main.c:111:6:SystemClock_Config	112	static
+C:/Users/caiom/Downloads/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/main.c:171:6:GPIO_Init	32	static
+C:/Users/caiom/Downloads/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/main.c:65:5:main	8	static

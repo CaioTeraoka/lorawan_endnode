@@ -1,0 +1,5 @@
+C:/Users/caiom/Downloads/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/rtc.c:31:6:MX_RTC_Init	4
+C:/Users/caiom/Downloads/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/rtc.c:85:6:HAL_RTC_MspInit	3
+C:/Users/caiom/Downloads/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/rtc.c:119:6:HAL_RTC_MspDeInit	2
+C:/Users/caiom/Downloads/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/rtc.c:141:6:RTC_Sleep	1
+C:/Users/caiom/Downloads/LoRaWan-E5-Node-main/Projects/Applications/LoRaWAN/LoRaWAN_End_Node/Core/Src/rtc.c:150:6:HAL_RTCEx_WakeUpTimerEventCallback	1
